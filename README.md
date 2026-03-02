@@ -29,7 +29,7 @@ This repository contains a comprehensive data science capstone project focused o
 2. Ensure you have the required libraries installed:
    ```bash
    pip install pandas plotly prophet openpyxl
-   <img width="1102" height="360" alt="newplot" src="https://github.com/user-attachments/assets/812ddc6b-dbe0-4f53-acd9-1a0788ed08a9" />
+<img width="1102" height="360" alt="newplot" src="https://github.com/user-attachments/assets/812ddc6b-dbe0-4f53-acd9-1a0788ed08a9" />
 <img width="1102" height="360" alt="newplot" src="https://github.com/user-attachments/assets/54292fe2-eb3a-4a4d-9feb-ac35108b6f6f" />
 
 
